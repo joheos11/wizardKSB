@@ -1,0 +1,11 @@
+name="v17 Krypton Spain Build 03-05-17"
+url="https://archive.org/download/KSBV17020517/KSB_v17_030517.zip"
+img="http://i.imgur.com/A4YFtVL.png"
+fanart="http://i.imgur.com/PQbzEG1.jpg"
+description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
+
+name="v16 Jarvis Spain Build 03-05-17"
+url="https://archive.org/download/KSBV17300417/KSB_v16_030517.zip"
+img="http://i.imgur.com/bAGbhJd.png"
+fanart="http://i.imgur.com/PQbzEG1.jpg"
+description="KodiSpain Build para Kodi/SPMC Jarvis exclusiva para http://t.me/kodispain"
