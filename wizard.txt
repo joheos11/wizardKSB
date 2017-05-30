@@ -10,7 +10,7 @@ img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para Kodi/SPMC Jarvis exclusiva para http://t.me/kodispain"
 
-name="EN PRUEBAS!!! v17 Krypton Spain Build 28-05-17"
+name="EN PRUEBAS!!! v17 Krypton Spain Build 30-05-17"
 url="https://archive.org/download/KSB2805v17/KSB_v17_300517.zip"
 img="http://i.imgur.com/A4YFtVL.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
