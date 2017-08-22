@@ -1,6 +1,6 @@
 name="v17 Krypton Spain Build 17-08-17 (Torrenter)"
 url="https://archive.org/download/KSBV17170817/KSB_v17_170817.zip"
-img="http://i.imgur.com/A4YFtVL.png"
+img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
 
