@@ -11,7 +11,7 @@ fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para Kodi/SPMC Jarvis exclusiva para http://t.me/kodispain"
 
 name="Repara Imagen Kodi v17 (17-10-17)"
-url="https://archive.org/download/REPARARIMAGEN/REPARAR%20IMAGEN.zip"
+url="https://archive.org/download/REPARARIMAGEN/REPARARIMAGEN.zip"
 img="http://i.imgur.com/A4YFtVL.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
