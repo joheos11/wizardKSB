@@ -5,7 +5,7 @@ fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
 
 name="v16 Jarvis Spain Build 02-09-17"
-url="https://archive.org/download/KSBV16020917Q/KSB_v16_020917Q.zip"
+url="http://bit.ly/2DWWXBp"
 img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para Kodi/SPMC Jarvis exclusiva para http://t.me/kodispain"
