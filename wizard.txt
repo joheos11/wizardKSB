@@ -1,4 +1,4 @@
-name="*EN PRUEBAS* v17 Krypton Spain Build 04-02-18"
+name="v17 Krypton Spain Build 04-02-18"
 url="http://bit.ly/2FIsasx"
 img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
