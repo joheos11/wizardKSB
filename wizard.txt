@@ -4,7 +4,6 @@ img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
 
-
 name="v16 Jarvis Spain Build 02-09-17"
 url="http://bit.ly/2DWWXBp"
 img="http://i.imgur.com/bAGbhJd.png"
