@@ -1,5 +1,5 @@
 name="v17 Krypton Spain Build 09-05-18"
-url="http://bit.ly/KSB090518"
+url="http://www.konectas.es/repo/KSB_v17_090518.zip"
 img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
