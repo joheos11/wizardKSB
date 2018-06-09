@@ -1,5 +1,11 @@
-name="v17 Krypton Spain Build 09-05-18"
-url="http://builds.kodileia.xyz/KSB_v17_090518.zip"
+name="OPCION 1: 09-05-18 V17 Krypton Spain Build"
+url="http://kodileia.xyz/.../KSB_v17_090518.zip"
+img="http://i.imgur.com/bAGbhJd.png"
+fanart="http://i.imgur.com/PQbzEG1.jpg"
+description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
+
+name="OPCION 2: 09-05-18 V17 Krypton Spain Build"
+url="https://archive.org/download/KSBV17090518/KSB_v17_090518.zip"
 img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
