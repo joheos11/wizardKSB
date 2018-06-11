@@ -1,10 +1,10 @@
-name="10-06-18 V17 Krypton Spain Build (OPC.1)"
+name="10-06-18 V17 (OPC.1) Krypton Spain Build"
 url="http://kodileia.xyz/.../KSB_v17_100618.zip"
 img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
 
-name="10-06-18 V17 Krypton Spain Build (OPC.2)"
+name="10-06-18 V17 (OPC.2) Krypton Spain Build"
 url="https://archive.org/download/KSBV17100618/KSB_v17_100618.zip"
 img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
