@@ -9,4 +9,3 @@ url="https://archive.org/download/KSBV17100618/KSB_v17_100618.zip"
 img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
-
