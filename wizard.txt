@@ -4,6 +4,7 @@ img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
 
+
 name="24-07-18 v17 (OPC.2) Krypton Spain Build"
 url="http://bit.ly/2NKsKKx"
 img="http://i.imgur.com/bAGbhJd.png"
