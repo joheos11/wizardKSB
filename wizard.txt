@@ -1,5 +1,5 @@
 name="24-07-18 v17 (OPC.1) Krypton Spain Build"
-url="http://konectas.es/--/KSB_v17_240718.zip"
+url="http://konectas.es/repo/--/KSB_v17_240718.zip"
 img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
