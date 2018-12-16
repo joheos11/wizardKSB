@@ -1,15 +1,3 @@
-name="24-07-18 v17 (OPC.1) Krypton Spain Build"
-url="http://konectas.es/repo/--/KSB_v17_240718.zip"
-img="http://i.imgur.com/bAGbhJd.png"
-fanart="http://i.imgur.com/PQbzEG1.jpg"
-description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
-
-name="24-07-18 v17 (OPC.2) Krypton Spain Build"
-url="http://bit.ly/2NKsKKx"
-img="http://i.imgur.com/bAGbhJd.png"
-fanart="http://i.imgur.com/PQbzEG1.jpg"
-description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
-
 name="16-12-18 v17 FINAL Krypton Spain Build"
 url="http://konectas.es/repo/--/KSB_v17_161218.zip"
 img="http://i.imgur.com/bAGbhJd.png"
