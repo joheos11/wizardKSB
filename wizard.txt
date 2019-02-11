@@ -9,3 +9,4 @@ url="http://konectas.es/repo/--/KSB_v18_110219.zip"
 img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
 description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
+
