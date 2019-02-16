@@ -12,7 +12,7 @@ adult="no"
 info="url.to.info"
 description="Build creada para Kodi 18 Leia"
 
-name="Kodi Krypton Spain Build"
+name="KodiSpain para Kodi 17 Krypton"
 version="16.12.18"
 url="http://konectas.es/repo/--/KSB_v17_161218.zip"
 minor="http://"
