@@ -1,4 +1,4 @@
-name="Kodi Leia Spain Build"
+name="KodiSpain"
 version="11.02.19"
 url="http://konectas.es/repo/--/KSB_v18_110219.zip"
 minor="http://"
