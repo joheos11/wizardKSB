@@ -25,3 +25,30 @@ fanart="http://i.imgur.com/PQbzEG1.jpg"
 preview="https://www.youtube.com/watch?v=Pi0Xjgx4jCw"
 adult="No"
 description="Build creada para Kodi 17 Krypton"
+
+name="STVA version Base Leia"
+version="1.8"
+url="http://bit.ly/2sAgjZA"
+gui=""
+kodi="18"
+theme="http://"
+icon="https://stva.zriel.ga/wizard/imagenes/stvaleia.png"
+fanart="https://stva.zriel.ga/wizard/imagenes/f1.png"
+preview=""
+adult="No"
+info="http://"
+description="VERSION BASE COMPLETA DE LA BUILD STVA[CR]
+[CR]
+STVA es una instalacion de Kodi Completamente configurado, pensado para quien acaba de conocer Kodi o no quiere complicarse.[CR]
+Podras ver peliculas, series, documentales, canales de television y videos de youtube.[CR]
+STVA tiene un perfil adicional llamado STVA Kids pensado para los nenes de la casa.[CR]
+[CR]
+[B]CAMBIOS VERSION 1.8 DEL 16-2-19:[/B][CR]
+[CR]
+Puedes consultar todo lo que lleva la build en la seccion Configuracion de la Build y parches en la web.[CR]
+[CR]
+- Reconstruida la version base desde 0 para eliminar archivos y errores heredados de versiones anteriores a la oficial Kodi 18.[CR]
+[CR]
+[CR]
+Para poder instalar el parche tactil, despues de instalar la version base;[CR]
+Ves a ajustes/addons/mis addons/addons de programa/STVA Wizard/Bases y parches/Parche Tactil[CR]"
