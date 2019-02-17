@@ -28,7 +28,7 @@ preview="https://www.youtube.com/watch?v=Pi0Xjgx4jCw"
 adult="no"
 description="Build creada para Kodi 17 Krypton"
 
-name="KodiSpain Prueba"
+name="KodiSpain P"
 version="1.0"
 url="http://bit.ly/2BCr95O"
 minor="http://"
