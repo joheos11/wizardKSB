@@ -1,5 +1,5 @@
-id="plugin.program.aftermath"
-version="0.4.5"
+id="plugin.program.kodispainwizard"
+version="0.4.5.1"
 zip="url.to.wizard"
 
 name="KodiSpain Krypton"
