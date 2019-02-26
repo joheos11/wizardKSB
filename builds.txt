@@ -1,5 +1,5 @@
 id="plugin.program.kodispainwizard"
-version="0.4.6.2"
+version="0.4.6.1"
 zip="http://konectas.es/repo/plugin.program.kodispainwizard.zip"
 
 name="KodiSpain Krypton"
