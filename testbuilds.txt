@@ -43,5 +43,3 @@ preview="https://www.youtube.com/watch?v=Pi0Xjgx4jCw"
 adult="no"
 info="url.to.info"
 description="Build creada para Kodi 18 Leia."
-
-
