@@ -1,6 +1,6 @@
 id="plugin.program.kodispainwizard"
 version="2.0.7"
-zip="http://konectas.es/repo/--/plugin.program.kodispainwizard-2.0.7.zip"
+zip="http://konectas.es/repo/--/plugin.zip"
 
 name="KodiSpain Leia"
 version="23.03.21"
