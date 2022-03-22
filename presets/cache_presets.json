@@ -1,24 +1,24 @@
 {
     "presets": [
         {
-            "name": "Default Network & Cache Settings",
-            "url": "https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/presets/default_cache_preset.xml",
-            "description": "This preset will restore the default settings for the 'network' and 'cache' categories."
+            "name": "Configuración predeterminada de red y caché",
+            "url": "https://raw.githubusercontent.com/joheos11/wizardKSB/master/presets/default_cache_preset.xml",
+            "description": "Esta configuración restaurará los ajustes por defecto de las categorías de 'red' y 'cache'."
         },
         {
-            "name": "Zero Cache Preset",
-            "url": "https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/presets/zero_cache_preset.xml",
-            "description": "This preset will enable 'zero cache' on your device. [B]DO NOT[/B] use this preset on devices with low amounts of free storage, or that have flash storage. [B]It is only safe[/B] to use on devices with hard drives."
+            "name": "Configuración de caché cero",
+            "url": "https://raw.githubusercontent.com/joheos11/wizardKSB/master/presets/zero_cache_preset.xml",
+            "description": "Esta configuración habilitará el 'cache cero' en tu dispositivo. [B]NO[/B] uses esta configuración en dispositivos con poco almacenamiento libre o con memoria flash. [B]Sólo es seguro[/B] utilizarlo en dispositivos con disco duro."
         },
         {
-            "name": "Low-RAM Device Preset",
-            "url": "https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/presets/low_ram_preset.xml",
-            "description": "This preset can be used on devices with less than 2GB of RAM, like Amazon Fire Sticks."
+            "name": "Configuración para dispositivos con poca memoria RAM",
+            "url": "https://raw.githubusercontent.com/joheos11/wizardKSB/master/presets/low_ram_preset.xml",
+            "description": "Esta configuración se puede utilizar en dispositivos con menos de 2 GB de RAM, como los Fire Sticks de Amazon."
         },
         {
-            "name": "High-End Device Preset",
-            "url": "https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/presets/high_end_preset.xml",
-            "description": "This preset can be used on devices with more than 2GB of RAM, like the Nvidia Shield."
+            "name": "Configuración para dispositivos de gama alta",
+            "url": "https://raw.githubusercontent.com/joheos11/wizardKSB/master/presets/high_end_preset.xml",
+            "description": "Esta configuración puede utilizarse en dispositivos con más de 2 GB de RAM, como la Nvidia Shield."
         }
     ]
 }
