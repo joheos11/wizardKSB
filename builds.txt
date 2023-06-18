@@ -32,7 +32,7 @@ description="Build creada para Kodi 19 Matrix."
 
 name="KodiSpain Nexus"
 version="16.06.23"
-url="http://konectas.es/repo/--/KSB_v20_160623.zip"
+url="https://bit.ly/KSB_v20_180623"
 minor="http://"
 gui="url.to.guisettings"
 kodi="20"
