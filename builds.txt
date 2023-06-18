@@ -31,7 +31,7 @@ info="http://konectas.es/"
 description="Build creada para Kodi 19 Matrix."
 
 name="KodiSpain Nexus"
-version="16.06.23"
+version="18.06.23"
 url="https://bit.ly/KSB_v20_180623"
 minor="http://"
 gui="url.to.guisettings"
