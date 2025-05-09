@@ -3,7 +3,7 @@ version="2.0.7"
 zip="https://github.com/joheos11/Kodispain/raw/refs/heads/main/plugin.program.kodispainwizard-2.0.7.zip"
 
 name="KodiSpain Build"
-version="18.06.23"
+version="20.0"
 url="https://archive.org/download/ksb-v-20-180623_202505/KSB_v20_180623.zip"
 minor="http://"
 gui=""
