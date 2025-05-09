@@ -2,15 +2,10 @@ id="plugin.program.kodispainwizard"
 version="2.0.7"
 zip="https://github.com/joheos11/Kodispain/raw/refs/heads/main/plugin.program.kodispainwizard-2.0.7.zip"
 
-name="v17 Krypton 16.12.18"
+name="Kodi Spain Build"
+version="20.0"
 url="http://konectas.es/repo/--/KSB_v17_161218.zip"
 img="http://i.imgur.com/bAGbhJd.png"
 fanart="http://i.imgur.com/PQbzEG1.jpg"
-description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
+description="KodiSpain Build"
 
-
-name="v18 Leia 11.02.19"
-url="http://konectas.es/repo/--/KSB_v18_110219.zip"
-img="http://i.imgur.com/bAGbhJd.png"
-fanart="http://i.imgur.com/PQbzEG1.jpg"
-description="KodiSpain Build para v17 Krypton exclusiva para http://t.me/kodispain"
