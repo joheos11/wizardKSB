@@ -2,7 +2,7 @@ id="plugin.program.kodispainwizard"
 version="2.0.7"
 zip="https://github.com/joheos11/Kodispain/blob/main/plugin.program.kodispainwizard-2.0.7.zip"
 
-name="KodiSpain Build 1"
+name="KodiSpain Build"
 version="18.06.23"
 url="https://github.com/joheos11/Kodispain/releases/download/build/KSB_v20_180623.zip"
 minor="http://"
