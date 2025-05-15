@@ -14,7 +14,7 @@ fanart="https://i.postimg.cc/90Ty5VM0/fanart.jpg"
 preview="http://"
 adult="no"
 info="url.to.info"
-description="Build creada para Kodi 18 Leia. También es válida para Kodi 19 Matrix y Kodi 20 Nexus"
+description="Build creada para Kodi 18 Leia y funcional para Kodi 19 Matrix y Kodi 20 Nexus."
 
 name="KodiSpain Build v21"
 version="13.05.25"
